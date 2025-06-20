@@ -23,5 +23,9 @@ The primary source of the data used here is Finance Expenses Data excel file att
 - PowerBI for Creating a report
 - MS Powerpoint for pesentation
 
+``` SQL
+SELECT A, B, C
+WHERE A > 15
+
 
 
